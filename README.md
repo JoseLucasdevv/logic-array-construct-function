@@ -1,0 +1,1 @@
+# logic-array-construct-function
